@@ -23,7 +23,7 @@
 <h3 align="center">Mi primer proyecto</h3>
 <div align="center">
 <a href="https://github.com/RMJGLUCKY27/DEAD_CELLS-DATABASE" target="_blank">
-<img src="https://via.placeholder.com/400x200.png?text=Tu+Imagen+Aquí" alt="Imagen de proyecto" width="400">
+<img src="https://i.ytimg.com/vi/vYVy0LwaC4E/maxresdefault.jpg" alt="Imagen de proyecto" width="400">
 </a>
 <p>
 <a href="https://github.com/RMJGLUCKY27/DEAD_CELLS-DATABASE" target="_blank">
