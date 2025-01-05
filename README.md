@@ -11,8 +11,8 @@
 ## Sobre mí
 
 - 📚 Actualmente estoy aprendiendo a programar y me apasiona compartir mis conocimientos.
-- 💻 Mi lenguaje favorito es **Python**.
-- 🚀 Trabajo en proyectos pequeños para mejorar mis habilidades en desarrollo de software.
+- 💻 Mi lenguaje favorito es **Python**, pero también trabajo con **C#** y **Java**.
+- 🚀 Trabajo en proyectos pequeños para mejorar mis habilidades en desarrollo de software, además de conocer y trabajar con bases de datos como **MongoDB** y **MySQL**.
 
 ---
 
@@ -38,6 +38,16 @@
 
 ---
 
+### Tecnologías y Lenguajes de Programación 🚀
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-2396ED?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/RMJGLUCKY27">
@@ -45,5 +55,4 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RMJGLUCKY27&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
 
