@@ -22,15 +22,15 @@
 <td width="50%">
 <h3 align="center">Mi primer proyecto</h3>
 <div align="center">
-<a href="https://github.com/TU-USUARIO/TU-PROYECTO" target="_blank">
+<a href="https://github.com/RMJGLUCKY27/DEAD_CELLS-DATABASE" target="_blank">
 <img src="https://via.placeholder.com/400x200.png?text=Tu+Imagen+Aquí" alt="Imagen de proyecto" width="400">
 </a>
 <p>
-<a href="https://github.com/TU-USUARIO/TU-PROYECTO" target="_blank">
+<a href="https://github.com/RMJGLUCKY27/DEAD_CELLS-DATABASE" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Descripción breve de tu proyecto. Por ejemplo, una aplicación para mejorar la productividad.</p>
+<p>Este proyecto es una base de datos para gestionar información relacionada con personajes, enemigos, niveles y objetos del videojuego **Dead Cells**.</p>
 </div>
 </td>
 
@@ -55,8 +55,9 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-<a href="https://github.com/TU-USUARIO">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/RMJGLUCKY27">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RMJGLUCKY27&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RMJGLUCKY27&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
