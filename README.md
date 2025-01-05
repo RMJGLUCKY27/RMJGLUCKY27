@@ -34,13 +34,7 @@
 
 Aquí hay algunos proyectos interesantes que estoy desarrollando:
 
-#### Proyecto 1: Calculadora básica
-- **Descripción:** Una calculadora que realiza operaciones básicas como sumar, restar, multiplicar y dividir.
-- **Código:** [Ver en GitHub](https://github.com/tuusuario/proyecto-calculadora)
 
-#### Proyecto 2: Juego de adivinanza
-- **Descripción:** Un pequeño juego donde el usuario debe adivinar un número entre 1 y 100.
-- **Código:** [Ver en GitHub](https://github.com/tuusuario/proyecto-adivinanza)
 
 ---
 
