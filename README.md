@@ -47,7 +47,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="50" />
   </a>
   <a href="https://www.instagram.com/richoflucky/profilecard/?igsh=MTh6ZmtxeDR1d2x3eA==" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" title="Instagram" width="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" title="Instagram" width="50" />
   </a>
   <a href="https://www.facebook.com/richoflucky?mibextid=ZbWKwL" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" title="Facebook" width="50" />
