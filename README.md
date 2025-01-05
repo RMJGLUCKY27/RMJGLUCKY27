@@ -14,6 +14,22 @@
 
 ---
 
+### Mis lenguajes de programación y tecnologías 🌟
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="60" />
+</p>
+
+---
+
 ### Mis proyectos
 
 Aquí hay algunos proyectos interesantes que estoy desarrollando:
@@ -31,9 +47,11 @@ Aquí hay algunos proyectos interesantes que estoy desarrollando:
 ### Mis redes
 
 - 🌐 [Mi GitHub](https://github.com/tuusuario)
-- 📺 [Mi canal de YouTube](https://youtube.com/tuusuario)
 - 📷 [Mi Instagram](https://instagram.com/tuusuario)
+- 📘 [Mi Facebook](https://facebook.com/tuusuario)
+
 
 ---
 
 ### ¡Gracias por visitar mi perfil! 🌟
+
