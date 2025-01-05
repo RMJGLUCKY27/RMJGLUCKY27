@@ -34,16 +34,17 @@
 
 Aquí hay algunos proyectos interesantes que estoy desarrollando:
 
-
+#### Proyecto 1: DEAD CELLS DATABASE
+- **Descripción:** Este proyecto contiene una base de datos para el juego Dead Cells, diseñada para gestionar y almacenar información relacionada con el juego.
+- **Código:** [Ver en GitHub](https://github.com/RMJGLUCKY27/DEAD_CELLS-DATABASE.git)
 
 ---
 
 ### Mis redes
 
-- 🌐 [Mi GitHub](https://github.com/tuusuario)
+- 🌐 [Mi GitHub](https://github.com/RMJGLUCKY27)
 - 📷 [Mi Instagram](https://instagram.com/tuusuario)
 - 📘 [Mi Facebook](https://facebook.com/tuusuario)
-
 
 ---
 
