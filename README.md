@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>¡Hola, soy [Tu Nombre]! 👋</h1>
+  <h1>¡Hola, soy [Jose Rico]! 👋</h1>
 </div>
 
-<img src="https://via.placeholder.com/400x200.png?text=Bienvenido+a+mi+perfil" alt="Imagen de bienvenida" style="display: block; margin: 0 auto;">
+<img src="https://drive.google.com/uc?export=view&id=1BNHtR0kNUSSO3wqMbOQ486qmrZ-fpkJI" alt="Imagen de bienvenida" style="display: block; margin: 0 auto;">
 
 ---
 
