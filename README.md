@@ -50,19 +50,4 @@ Aquí hay algunos proyectos interesantes que estoy desarrollando:
 
 ### ¡Gracias por visitar mi perfil! 🌟
 
-<!-- Botón para mostrar GIF -->
-<button onclick="mostrarGif()">Ver GIF animado</button>
-
-<!-- Contenedor del GIF, inicialmente oculto -->
-<div class="gif-container" id="gif-container" style="display: none; text-align: center; margin-top: 20px;">
-  <img src="https://media.giphy.com/media/3o7TKDzJcRmQsF5hFq/giphy.gif" alt="GIF animado" width="300">
-</div>
-
-<script>
-  function mostrarGif() {
-    const gifContainer = document.getElementById("gif-container");
-    gifContainer.style.display = "block"; // Muestra el GIF cuando se hace clic
-  }
-</script>
-
 
