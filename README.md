@@ -15,6 +15,11 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
+<!-- Snake animation banner -->
+<div align="center">
+  <img src="https://github.com/RMJGLUCKY27/RMJGLUCKY27/blob/output/github-contribution-grid-snake.svg" alt="snake gif" width="100%"/>
+</div>
+
 ## Sobre mí
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGVlZGVlZTJlMzRlMDRlNzJlNDRmNzU1ZDRkNDRiMzA1YzZkMTJmYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" />
@@ -26,6 +31,11 @@
 - 🚀 Trabajo en proyectos pequeños para mejorar mis habilidades en desarrollo de software, además de conocer y trabajar con bases de datos como **MongoDB** y **MySQL**.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+<!-- Animated SVG separator -->
+<div align="center">
+  <img src="https://svgshare.com/i/14vG.svg" alt="Animated Gradient Separator" width="100%"/>
+</div>
 
 ## Proyectos destacados 🚀
 
