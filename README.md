@@ -13,11 +13,11 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%">
 
 <!-- Snake animation banner -->
 <div align="center">
-  <img src="https://github.com/RMJGLUCKY27/RMJGLUCKY27/blob/output/github-contribution-grid-snake.svg" alt="snake gif" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
 </div>
 
 ## Sobre mí
@@ -30,11 +30,11 @@
 
 - 🚀 Trabajo en proyectos pequeños para mejorar mis habilidades en desarrollo de software, además de conocer y trabajar con bases de datos como **MongoDB** y **MySQL**.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%">
 
 <!-- Animated SVG separator -->
 <div align="center">
-  <img src="https://svgshare.com/i/14wG.svg" alt="Gradient Separator" width="100%"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Gradient Separator" width="100%"/>
 </div>
 
 ## Proyectos destacados 🚀
@@ -53,7 +53,7 @@ Este proyecto es una base de datos para gestionar información relacionada con p
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%">
 
 ## Tecnologías y Lenguajes de Programación 🚀
 
@@ -67,7 +67,7 @@ Este proyecto es una base de datos para gestionar información relacionada con p
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%">
 
 ## ⚙️ GitHub Analytics
 
@@ -80,4 +80,4 @@ Este proyecto es una base de datos para gestionar información relacionada con p
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=RMJGLUCKY27&theme=algolia&column=7" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" width="100%" loading="lazy">
