@@ -11,42 +11,41 @@
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/joserico_)
 [![Join Discord](https://img.shields.io/badge/-Join%20my%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/REqSYkHg)
 
-<!-- Animación de olas SVG -->
 <div align="center">
-  <svg width="100%" height="80" viewBox="0 0 1440 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <svg width="100%" height="120" viewBox="0 0 1440 120" xmlns="http://www.w3.org/2000/svg">
     <defs>
-      <linearGradient id="marino" x1="0" y1="0" x2="0" y2="80" gradientUnits="userSpaceOnUse">
-        <stop stop-color="#8A2BE2"/>
-        <stop offset="1" stop-color="#1877F2"/>
+      <linearGradient id="waveGradient" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="#6a82fb"/>
+        <stop offset="100%" stop-color="#fc5c7d"/>
       </linearGradient>
     </defs>
-    <path d="M0 40 Q 360 80 720 40 T 1440 40 V80 H0Z" fill="url(#marino)">
-      <animate attributeName="d" dur="6s" repeatCount="indefinite" values="M0 40 Q 360 80 720 40 T 1440 40 V80 H0Z;M0 30 Q 360 60 720 30 T 1440 50 V80 H0Z;M0 40 Q 360 80 720 40 T 1440 40 V80 H0Z"/>
-    </path>
+    <path fill="url(#waveGradient)" fill-opacity="0.8" d="M0,80 C360,120 1080,40 1440,80 L1440,120 L0,120 Z"></path>
+    <path fill="#7f53ac" fill-opacity="0.5" d="M0,100 C400,60 1040,140 1440,100 L1440,120 L0,120 Z"></path>
+  </svg>
+  <svg width="100%" height="60" viewBox="0 0 1440 60" xmlns="http://www.w3.org/2000/svg" style="margin-top:-10px;">
+    <circle cx="200" cy="30" r="12" fill="#6a82fb" fill-opacity="0.7">
+      <animate attributeName="cy" values="30;10;30" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="400" cy="40" r="8" fill="#fc5c7d" fill-opacity="0.5">
+      <animate attributeName="cy" values="40;20;40" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="600" cy="25" r="10" fill="#7f53ac" fill-opacity="0.6">
+      <animate attributeName="cy" values="25;5;25" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="900" cy="35" r="14" fill="#6a82fb" fill-opacity="0.4">
+      <animate attributeName="cy" values="35;15;35" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1200" cy="20" r="9" fill="#fc5c7d" fill-opacity="0.6">
+      <animate attributeName="cy" values="20;0;20" dur="2.7s" repeatCount="indefinite"/>
+    </circle>
   </svg>
 </div>
 
-<!-- Animación de burbujas SVG -->
-<div align="center">
-  <svg width="100%" height="60" viewBox="0 0 400 60" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="50" cy="60" r="8" fill="#8A2BE2">
-      <animate attributeName="cy" values="60;10;60" dur="4s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="1;0.5;1" dur="4s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="120" cy="60" r="5" fill="#1877F2">
-      <animate attributeName="cy" values="60;20;60" dur="3s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="1;0.3;1" dur="3s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="200" cy="60" r="7" fill="#4B0082">
-      <animate attributeName="cy" values="60;15;60" dur="5s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="1;0.6;1" dur="5s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="300" cy="60" r="6" fill="#483D8B">
-      <animate attributeName="cy" values="60;25;60" dur="4.5s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="1;0.4;1" dur="4.5s" repeatCount="indefinite"/>
-    </circle>
-  </svg>
-</div>
+# CV de [Tu Nombre]
+
+¡Bienvenido a mi perfil! Este README está inspirado en el mar y sus profundidades, con animaciones en tonos azul y morado para aportar coherencia visual y un estilo profesional.
+
+<!-- Aquí puedes agregar el resto de tu información personal, experiencia, proyectos, etc. -->
 
 </div>
 
