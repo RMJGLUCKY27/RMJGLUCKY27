@@ -34,7 +34,7 @@
 
 <!-- Animated SVG separator -->
 <div align="center">
-  <img src="https://svgshare.com/i/14vG.svg" alt="Animated Gradient Separator" width="100%"/>
+  <img src="https://svgshare.com/i/14wG.svg" alt="Gradient Separator" width="100%"/>
 </div>
 
 ## Proyectos destacados 🚀
