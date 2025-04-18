@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Este proyecto es una base de datos para gestionar información relacionada con personajes, enemigos, niveles y objetos del videojuego **Dead Cells**.</p>
+<p>Este proyecto es una base de datos para gestionar información relacionada con personajes, enemigos, niveles y objetos del videojuego Dead Cells.</p>
 </div>
 </td>
 </tr>
@@ -42,6 +42,7 @@
 
 ### Tecnologías y Lenguajes de Programación 🚀
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-2396ED?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -57,4 +58,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RMJGLUCKY27&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
