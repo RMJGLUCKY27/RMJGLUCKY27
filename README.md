@@ -1,52 +1,87 @@
 <div align="center">
-  <h1 align="center">Hola, soy Jose Rico 👋</h1>
+
+<svg width="100%" height="180">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4158D0" />
+      <stop offset="50%" style="stop-color:#C850C0" />
+      <stop offset="100%" style="stop-color:#FFCC70" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="180" fill="url(#gradient)" />
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="white" style="font-size: 48px; font-weight: bold; font-family: Arial;" filter="url(#glow)">
+    Ricardo Aldama
+  </text>
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+</svg>
+
+<p align="center" style="font-size: 24px; margin-top: 20px;">
+  🚀 Desarrollador Full Stack | 💡 Innovador | 🎨 Creativo
+</p>
+
+<div style="margin: 20px 0;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
-<img src="https://drive.google.com/uc?export=view&id=1BNHtR0kNUSSO3wqMbOQ486qmrZ-fpkJI" 
-     alt="Imagen de bienvenida" 
-     style="display: block; margin: 0 auto; border-radius: 15px; max-width: 80%;">
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/richoflucky/profilecard/?igsh=MTh6ZmtxeDR1d2x3eA==)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/richoflucky?mibextid=ZbWKwL)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/joserico_)
-[![Join Discord](https://img.shields.io/badge/-Join%20my%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/REqSYkHg)
+<svg width="100%" height="50">
+  <defs>
+    <pattern id="wave" width="100" height="50" patternUnits="userSpaceOnUse">
+      <path d="M0,25 Q25,0 50,25 T100,25" fill="none" stroke="#C850C0" stroke-width="2"/>
+    </pattern>
+  </defs>
+  <rect width="100%" height="50" fill="url(#wave)" />
+</svg>
 
-## Sobre mí
+## 🌟 Proyectos Destacados
 
-- 📚 Actualmente estoy aprendiendo a programar y me apasiona compartir mis conocimientos.
-- 💻 Mi lenguaje favorito es **Python**, pero también trabajo con **C#** y **Java**.
-- 🚀 Trabajo en proyectos pequeños para mejorar mis habilidades en desarrollo de software, además de conocer y trabajar con bases de datos como **MongoDB** y **MySQL**.
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin: 20px 0;">
+  <div style="background: linear-gradient(135deg, #4158D0, #C850C0); padding: 20px; border-radius: 10px; color: white;">
+    <h3>🏰 Aldama Tourism</h3>
+    <p>Plataforma turística interactiva para Aldama</p>
+  </div>
+  <div style="background: linear-gradient(135deg, #C850C0, #FFCC70); padding: 20px; border-radius: 10px; color: white;">
+    <h3>🎮 Unity Projects</h3>
+    <p>Desarrollo de videojuegos creativos</p>
+  </div>
+</div>
 
----
+<svg width="100%" height="50">
+  <defs>
+    <pattern id="wave2" width="100" height="50" patternUnits="userSpaceOnUse">
+      <path d="M0,25 Q25,50 50,25 T100,25" fill="none" stroke="#4158D0" stroke-width="2"/>
+    </pattern>
+  </defs>
+  <rect width="100%" height="50" fill="url(#wave2)" />
+</svg>
 
-### Proyectos destacados 🚀
-<table>
-<tr>
-<td width="100%">
-<h3 align="center">Mi primer proyecto</h3>
+## 💫 Habilidades
+
+```javascript
+const skills = {
+  frontEnd: ['React', 'JavaScript', 'HTML5', 'CSS3'],
+  backEnd: ['Node.js', 'Python', 'Express'],
+  databases: ['MongoDB', 'MySQL'],
+  tools: ['Git', 'VS Code', 'Unity']
+};
+```
+
 <div align="center">
-<a href="https://github.com/RMJGLUCKY27/DEAD_CELLS-DATABASE" target="_blank">
-<img src="https://i.ytimg.com/vi/vYVy0LwaC4E/maxresdefault.jpg" alt="Imagen de proyecto" width="400">
-</a>
-<p>
-<a href="https://github.com/RMJGLUCKY27/DEAD_CELLS-DATABASE" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>Este proyecto es una base de datos para gestionar información relacionada con personajes, enemigos, niveles y objetos del videojuego **Dead Cells**.</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ricoj&show_icons=true&theme=radical" />
 </div>
-</td>
-</tr>
-</table>
 
----
+</div>
 
-### Tecnologías y Lenguajes de Programación 🚀
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-2396ED?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
 
 ---
 
