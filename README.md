@@ -148,13 +148,39 @@ Este proyecto es una base de datos para gestionar información relacionada con p
 ## Tecnologías y Lenguajes de Programación 🚀
 
 <div align="center">
+<svg width="100%" height="20" viewBox="0 0 1440 20" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="techGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6a82fb" />
+      <stop offset="100%" stop-color="#fc5c7d" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#techGradient)" rx="10" />
+</svg>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 15px; margin: 20px 0;">
+  <div style="background: linear-gradient(135deg, #3776AB, #6a82fb); padding: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='none'">
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="width: 100%;">
+  </div>
+  <div style="background: linear-gradient(135deg, #239120, #47A248); padding: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='none'">
+    <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" style="width: 100%;">
+  </div>
+  <div style="background: linear-gradient(135deg, #007396, #5865F2); padding: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='none'">
+    <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="width: 100%;">
+  </div>
+  <div style="background: linear-gradient(135deg, #47A248, #239120); padding: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='none'">
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="width: 100%;">
+  </div>
+  <div style="background: linear-gradient(135deg, #4479A1, #3776AB); padding: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='none'">
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="width: 100%;">
+  </div>
+</div>
 
+<svg width="100%" height="20" viewBox="0 0 1440 20" xmlns="http://www.w3.org/2000/svg">
+  <path d="M0,10 C360,20 720,0 1080,10 C1440,20 1440,0 1440,0 L1440,20 L0,20 Z" fill="url(#techGradient)">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite" values="M0,10 C360,20 720,0 1080,10 C1440,20 1440,0 1440,0 L1440,20 L0,20 Z; M0,10 C360,0 720,20 1080,10 C1440,0 1440,20 1440,20 L1440,20 L0,20 Z; M0,10 C360,20 720,0 1080,10 C1440,20 1440,0 1440,0 L1440,20 L0,20 Z" />
+  </path>
+</svg>
 </div>
 
 <!-- Animación de olas SVG final -->
