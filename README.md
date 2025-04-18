@@ -1,15 +1,45 @@
 <div align="center">
 
-# Hola, soy Jose Rico 👋
+# <span style="color: #8A2BE2; text-shadow: 0 0 10px rgba(138,43,226,0.5); animation: pulse 2s infinite;">Hola, soy Jose Rico 👋</span>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Jose%20Rico&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20en%20formación&descAlignY=60&descAlign=50" width="100%">
+<svg width="100%" height="200" viewBox="0 0 1440 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6a82fb" />
+      <stop offset="100%" stop-color="#fc5c7d" />
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#headerGradient)" />
+  <text x="50%" y="50%" font-size="80" font-weight="bold" text-anchor="middle" dominant-baseline="middle" fill="white" filter="url(#glow)">
+    Jose Rico
+    <animate attributeName="opacity" values="1;0.8;1" dur="3s" repeatCount="indefinite" />
+  </text>
+  <text x="50%" y="65%" font-size="24" text-anchor="middle" fill="white">
+    Desarrollador en formación
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="4s" repeatCount="indefinite" />
+  </text>
+</svg>
 
-<img src="https://drive.google.com/uc?export=view&id=1BNHtR0kNUSSO3wqMbOQ486qmrZ-fpkJI" alt="Imagen de bienvenida" width="400" style="border-radius: 15px;">
+<img src="https://drive.google.com/uc?export=view&id=1BNHtR0kNUSSO3wqMbOQ486qmrZ-fpkJI" alt="Imagen de bienvenida" width="400" style="border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.2); transition: transform 0.5s ease;">
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/richoflucky/profilecard/?igsh=MTh6ZmtxeDR1d2x3eA==)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/richoflucky?mibextid=ZbWKwL)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/joserico_)
-[![Join Discord](https://img.shields.io/badge/-Join%20my%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/REqSYkHg)
+<div style="display: flex; justify-content: center; gap: 15px; margin: 20px 0;">
+  <a href="https://www.instagram.com/richoflucky/profilecard/?igsh=MTh6ZmtxeDR1d2x3eA==" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  </a>
+  <a href="https://www.facebook.com/richoflucky?mibextid=ZbWKwL" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  </a>
+  <a href="https://discord.com/users/joserico_" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  </a>
+  <a href="https://discord.gg/REqSYkHg" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Join%20my%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+  </a>
+</div>
 
 <div align="center">
   <svg width="100%" height="120" viewBox="0 0 1440 120" xmlns="http://www.w3.org/2000/svg">
