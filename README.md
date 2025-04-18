@@ -11,13 +11,43 @@
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/joserico_)
 [![Join Discord](https://img.shields.io/badge/-Join%20my%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/REqSYkHg)
 
+<!-- Animación de olas SVG -->
+<div align="center">
+  <svg width="100%" height="80" viewBox="0 0 1440 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="marino" x1="0" y1="0" x2="0" y2="80" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#8A2BE2"/>
+        <stop offset="1" stop-color="#1877F2"/>
+      </linearGradient>
+    </defs>
+    <path d="M0 40 Q 360 80 720 40 T 1440 40 V80 H0Z" fill="url(#marino)">
+      <animate attributeName="d" dur="6s" repeatCount="indefinite" values="M0 40 Q 360 80 720 40 T 1440 40 V80 H0Z;M0 30 Q 360 60 720 30 T 1440 50 V80 H0Z;M0 40 Q 360 80 720 40 T 1440 40 V80 H0Z"/>
+    </path>
+  </svg>
 </div>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%">
-
-<!-- Snake animation banner -->
+<!-- Animación de burbujas SVG -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+  <svg width="100%" height="60" viewBox="0 0 400 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="50" cy="60" r="8" fill="#8A2BE2">
+      <animate attributeName="cy" values="60;10;60" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.5;1" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="120" cy="60" r="5" fill="#1877F2">
+      <animate attributeName="cy" values="60;20;60" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.3;1" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="200" cy="60" r="7" fill="#4B0082">
+      <animate attributeName="cy" values="60;15;60" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.6;1" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="300" cy="60" r="6" fill="#483D8B">
+      <animate attributeName="cy" values="60;25;60" dur="4.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.4;1" dur="4.5s" repeatCount="indefinite"/>
+    </circle>
+  </svg>
+</div>
+
 </div>
 
 ## Sobre mí
@@ -30,11 +60,26 @@
 
 - 🚀 Trabajo en proyectos pequeños para mejorar mis habilidades en desarrollo de software, además de conocer y trabajar con bases de datos como **MongoDB** y **MySQL**.
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%">
+<!-- Animación de olas SVG inferior -->
+<div align="center">
+  <svg width="100%" height="80" viewBox="0 0 1440 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="marino2" x1="0" y1="0" x2="0" y2="80" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#1877F2"/>
+        <stop offset="1" stop-color="#8A2BE2"/>
+      </linearGradient>
+    </defs>
+    <path d="M0 40 Q 360 0 720 40 T 1440 40 V80 H0Z" fill="url(#marino2)">
+      <animate attributeName="d" dur="7s" repeatCount="indefinite" values="M0 40 Q 360 0 720 40 T 1440 40 V80 H0Z;M0 50 Q 360 20 720 50 T 1440 60 V80 H0Z;M0 40 Q 360 0 720 40 T 1440 40 V80 H0Z"/>
+    </path>
+  </svg>
+</div>
 
 <!-- Animated SVG separator -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Gradient Separator" width="100%"/>
+  <svg width="100%" height="20" viewBox="0 0 1440 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="1440" height="20" fill="url(#marino)"/>
+  </svg>
 </div>
 
 ## Proyectos destacados 🚀
@@ -53,7 +98,23 @@ Este proyecto es una base de datos para gestionar información relacionada con p
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%">
+<!-- Animación de burbujas SVG inferior -->
+<div align="center">
+  <svg width="100%" height="60" viewBox="0 0 400 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="80" cy="60" r="7" fill="#8A2BE2">
+      <animate attributeName="cy" values="60;10;60" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.5;1" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="200" cy="60" r="5" fill="#1877F2">
+      <animate attributeName="cy" values="60;20;60" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.3;1" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="320" cy="60" r="6" fill="#4B0082">
+      <animate attributeName="cy" values="60;15;60" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.6;1" dur="5s" repeatCount="indefinite"/>
+    </circle>
+  </svg>
+</div>
 
 ## Tecnologías y Lenguajes de Programación 🚀
 
@@ -67,7 +128,20 @@ Este proyecto es una base de datos para gestionar información relacionada con p
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%">
+<!-- Animación de olas SVG final -->
+<div align="center">
+  <svg width="100%" height="80" viewBox="0 0 1440 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="marino3" x1="0" y1="0" x2="0" y2="80" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#8A2BE2"/>
+        <stop offset="1" stop-color="#1877F2"/>
+      </linearGradient>
+    </defs>
+    <path d="M0 40 Q 360 80 720 40 T 1440 40 V80 H0Z" fill="url(#marino3)">
+      <animate attributeName="d" dur="6s" repeatCount="indefinite" values="M0 40 Q 360 80 720 40 T 1440 40 V80 H0Z;M0 30 Q 360 60 720 30 T 1440 50 V80 H0Z;M0 40 Q 360 80 720 40 T 1440 40 V80 H0Z"/>
+    </path>
+  </svg>
+</div>
 
 ## ⚙️ GitHub Analytics
 
@@ -80,4 +154,17 @@ Este proyecto es una base de datos para gestionar información relacionada con p
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=RMJGLUCKY27&theme=algolia&column=7" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" width="100%" loading="lazy">
+<!-- Animación de olas SVG footer -->
+<div align="center">
+  <svg width="100%" height="120" viewBox="0 0 1440 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="marino4" x1="0" y1="0" x2="0" y2="120" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#1877F2"/>
+        <stop offset="1" stop-color="#8A2BE2"/>
+      </linearGradient>
+    </defs>
+    <path d="M0 60 Q 360 120 720 60 T 1440 60 V120 H0Z" fill="url(#marino4)">
+      <animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0 60 Q 360 120 720 60 T 1440 60 V120 H0Z;M0 80 Q 360 100 720 80 T 1440 100 V120 H0Z;M0 60 Q 360 120 720 60 T 1440 60 V120 H0Z"/>
+    </path>
+  </svg>
+</div>
