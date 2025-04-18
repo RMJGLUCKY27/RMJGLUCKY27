@@ -68,10 +68,6 @@ Este proyecto es una base de datos para gestionar información relacionada con p
 </a>
 
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=RMJGLUCKY27&theme=algolia&column=7" />
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RMJGLUCKY27&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
-
-<img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%">
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer" width="100%">
