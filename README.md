@@ -5,8 +5,8 @@
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1BNHtR0kNUSSO3wqMbOQ486qmrZ-fpkJI" 
        alt="Jose Rico - Desarrollador" 
-       width="300" 
-       style="border-radius: 50%; border: 3px solid #58a6ff;">
+       width="400" 
+       style="border-radius: 15px; border: 3px solid #58a6ff;">
 </div>
 
 ---
@@ -87,8 +87,8 @@ const joseRico = {
 ## 📈 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RMJGLUCKY27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=58a6ff&title_color=58a6ff&icon_color=58a6ff&text_color=79c0ff&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMJGLUCKY27&layout=compact&langs_count=8&theme=tokyonight&border_color=58a6ff&title_color=58a6ff&text_color=79c0ff&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RMJGLUCKY27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=58a6ff&title_color=58a6ff&icon_color=58a6ff&text_color=79c0ff&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RMJGLUCKY27&layout=compact&langs_count=8&theme=tokyonight&border_color=58a6ff&title_color=58a6ff&text_color=79c0ff&bg_color=0d1117"/>
 </div>
 
 <div align="center">
@@ -134,3 +134,4 @@ const joseRico = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=¡Gracias%20por%20visitar!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=75"/>
 </div>
+                            
