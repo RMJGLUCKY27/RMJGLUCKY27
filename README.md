@@ -1,82 +1,9 @@
 <div align="center">
-  
+
 # Jose Rico
 ### Full Stack Developer en Formación
 
-<img src="ht---
-
-## 📊 Estadísticas de GitHub
-
-<## 🎯 Objetivos 2025
-
-- 🚀 Completar m<div align="center">
-
-### 💼 Abierto a nuevas oportunidades
-
-*Siempre interesado en colaborar en proyectos interesantes y aprender de otros desarrolladores.*
-
-**📧 ¿Tienes una propuesta? ¡Hablemos!**
-
----
-
-### 🌟 Métricas de Perfil
-
-<img src="https://metrics.lecoq.io/RMJGLUCKY27?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FMadrid" alt="GitHub Metrics" />
-
----
-
-### 📊 Resumen de Actividad
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RMJGLUCKY27&theme=default" alt="GitHub Profile Summary" />
-
-</div>ón en desarrollo Full Stack
-- 🌐 Crear mi primer portfolio web profesional
-- 📱 Iniciarme en el desarrollo móvil
-- 🤝 Contribuir a proyectos open source
-- 📚 Documentar mi proceso de aprendizaje
-
----
-
-## 💡 Cita Inspiracional del Día
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Dev Quote" />
-</div>
-
----
-
-## 📅 Contribuciones este año
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/RMJGLUCKY27" alt="GitHub Contributions Chart" />
-</div>
-
----
-
-## 🔥 Racha de Commits
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RMJGLUCKY27&theme=light&hide_border=true" alt="GitHub Streak Stats" />
-</div>gn="center">
-  
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RMJGLUCKY27&show_icons=true&theme=default&include_all_commits=true&count_private=true&border_color=d0d7de"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RMJGLUCKY27&layout=compact&langs_count=8&theme=default&border_color=d0d7de"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RMJGLUCKY27&theme=default&border=d0d7de" alt="GitHub Streak" />
-</div>
-
-### 📈 Gráfico de Actividad
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RMJGLUCKY27&theme=minimal&bg_color=ffffff&color=2f80ed&line=2f80ed&point=2f80ed&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
-### 🏆 Trofeos de GitHub
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RMJGLUCKY27&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>ogle.com/uc?export=view&id=1BNHtR0kNUSSO3wqMbOQ486qmrZ-fpkJI" 
+<img src="https://drive.google.com/uc?export=view&id=1BNHtR0kNUSSO3wqMbOQ486qmrZ-fpkJI" 
      alt="Jose Rico - Developer" 
      width="180" 
      style="border-radius: 15px; margin: 20px 0;">
@@ -165,17 +92,92 @@ interests:
 
 ---
 
-## � Estadísticas de GitHub
+## 📊 APIs Avanzadas - Dashboard Completo
 
+### 🔥 Métricas Detalladas de GitHub
+<div align="center">
+  <img src="https://metrics.lecoq.io/RMJGLUCKY27?template=classic&config.timezone=Europe%2FMadrid&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&languages=1&languages.limit=8&languages.recent=false&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup=1&followup.sections=repositories&followup.indepth=false&followup.archived=true&introduction=1&introduction.title=true&habits=1&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&code=1&code.lines=12&code.load=400&code.days=3&code.visibility=public&activity=1&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&notable=1&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&discussions=1&discussions.categories=true&discussions.categories.limit=0" alt="Detailed GitHub Metrics" />
+</div>
+
+### 📈 Análisis de Código Avanzado
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RMJGLUCKY27&layout=compact&theme=default" alt="Wakatime Stats" />
+</div>
+
+### 🏆 Sistema de Logros Completo
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RMJGLUCKY27&theme=flat&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+</div>
+
+### 📅 Heatmap de Contribuciones Interactivo
+<div align="center">
+  <img src="https://ghchart.rshah.org/409ba5/RMJGLUCKY27" alt="GitHub Contributions Heatmap" />
+</div>
+
+### ⚡ Estadísticas en Tiempo Real
+<table align="center">
+<tr>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=RMJGLUCKY27&show_icons=true&theme=default&include_all_commits=true&count_private=true&custom_title=Estadísticas%20Generales" alt="GitHub Stats" />
+
+</td>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMJGLUCKY27&layout=compact&theme=default&langs_count=10&custom_title=Lenguajes%20Más%20Usados" alt="Top Languages" />
+
+</td>
+</tr>
+</table>
+
+### 🌊 Actividad de Commits Avanzada
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RMJGLUCKY27&theme=react-dark&bg_color=20232a&hide_border=true&point=58a6ff&line=58a6ff&color=ffffff&area=true&area_color=58a6ff" alt="Advanced Activity Graph" />
+</div>
+
+### 📊 Panel de Control de Productividad
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RMJGLUCKY27&theme=github" alt="Profile Summary" />
+</div>
+
+### 🎯 Racha de Commits Detallada
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=RMJGLUCKY27&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=800" alt="Advanced Streak Stats" />
+</div>
+
+### 📈 Gráfico de Commits por Hora
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RMJGLUCKY27&repo=DEAD_CELLS-DATABASE&show_owner=true&theme=default" alt="Pinned Repository" />
+</div>
+
+### 🔥 API de Última Actividad
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RMJGLUCKY27&show_icons=true&theme=default&include_all_commits=true&count_private=true&border_color=d0d7de"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RMJGLUCKY27&layout=compact&langs_count=8&theme=default&border_color=d0d7de"/>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 </div>
 
+### 🌟 Generador de Citas de Programadores
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RMJGLUCKY27&theme=default&border=d0d7de" alt="GitHub Streak" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&animation=grow_out_in&quoteCategory=programming" alt="Programming Quote" />
+</div>
+
+### 💻 Snake Game - Commits Animation
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</div>
+
+### 📱 Widget de Tecnologías Dinámico
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cs,java,mongodb,mysql,git,github,vscode,discord&theme=light&perline=5" alt="Tech Stack Icons" />
+</div>
+
+### 🎵 API de Música (si conectas Spotify)
+<div align="center">
+
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=USERNAME&unique=true)](https://open.spotify.com/user/USERNAME)
+
 </div>
 
 ---
@@ -184,18 +186,47 @@ interests:
 
 - 🚀 Completar mi formación en desarrollo Full Stack
 - 🌐 Crear mi primer portfolio web profesional
-- � Iniciarme en el desarrollo móvil
+- 📱 Iniciarme en el desarrollo móvil
 - 🤝 Contribuir a proyectos open source
-- � Documentar mi proceso de aprendizaje
+- 📚 Documentar mi proceso de aprendizaje
+
+---
+
+## 💡 APIs de Contenido Dinámico
+
+### 📰 Últimas Entradas de Blog (si tienes blog)
+<div align="center">
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+</div>
+
+### 🌍 API del Clima de tu Ubicación
+<div align="center">
+  <img src="https://wttr.in/Madrid.png?0&theme=light" alt="Weather in Madrid" width="400" />
+</div>
+
+### 🕐 Reloj Mundial
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=1000&pause=1000&color=6E7681&center=true&vCenter=true&width=400&lines=🕐+Madrid%3A+$(date);🌍+UTC%3A+$(date+-u)" alt="World Clock" />
+</div>
 
 ---
 
 <div align="center">
 
-### � Abierto a nuevas oportunidades
+### 💼 Abierto a nuevas oportunidades
 
 *Siempre interesado en colaborar en proyectos interesantes y aprender de otros desarrolladores.*
 
 **📧 ¿Tienes una propuesta? ¡Hablemos!**
+
+---
+
+### 🚀 Powered by Advanced GitHub APIs
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRMJGLUCKY27&label=Profile%20Visitors&labelColor=%23697689&countColor=%232ccce4)
+![Last Updated](https://img.shields.io/github/last-commit/RMJGLUCKY27/RMJGLUCKY27?label=Last%20Updated&style=flat-square&color=blue)
 
 </div>
