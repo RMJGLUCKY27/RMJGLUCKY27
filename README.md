@@ -9,7 +9,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/richoflucky/profilecard/?igsh=MTh6ZmtxeDR1d2x3eA==)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/richoflucky?mibextid=ZbWKwL)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/joserico_)
-[![Portfolio](https://img.shields.io/badge/📁_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](#) <!-- Agrega tu link de portfolio aquí -->
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rico.jose.19.1127@gmail.com)
 
 </div>
 
@@ -104,8 +104,9 @@
 
 <div align="center">
 
-[![Contactar](https://img.shields.io/badge/💬_Contactar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/tunumerodewhatsapp)
-[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@actualizatech.com)
+[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/528129049205)
+[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rico.jose.19.1127@gmail.com)
+[![Instagram](https://img.shields.io/badge/📱_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/richoflucky/profilecard/?igsh=MTh6ZmtxeDR1d2x3eA==)
 
 </div>
 
@@ -114,5 +115,9 @@
 <div align="center">
   
 *"Creamos soluciones web que no solo se ven bien, sino que funcionan mejor"* - **ActualizaTech**
+
+**📞 Contacto Directo:** 
+- **WhatsApp:** +52 81 2904 9205
+- **Email:** rico.jose.19.1127@gmail.com
 
 </div>
